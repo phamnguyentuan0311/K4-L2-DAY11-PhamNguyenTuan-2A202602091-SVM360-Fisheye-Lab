@@ -1,1 +1,5 @@
 id,date,question,decision,rationale,status
+1,2026-09-28,Q1,D1,R1,resolved
+2,2026-09-28,Q2,D2,R2,resolved
+3,2026-09-28,Q3,D3,R3,resolved
+4,2026-09-28,Q4,D4,R4,escalated

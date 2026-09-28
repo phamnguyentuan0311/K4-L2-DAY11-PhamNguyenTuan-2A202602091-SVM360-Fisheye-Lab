@@ -1,0 +1,9 @@
+round: calib
+slice: C0
+sha256: cd2a0645a92cffe73f7ca418fd644e122ebd09328c513c832a2153395e39fcaa
+code: CD2A-0645
+locked_at: 2026-09-28T16:34:56+07:00
+shapes: polygon=2
+prefill_kept: 0
+prefill_edited: 0
+new: 0

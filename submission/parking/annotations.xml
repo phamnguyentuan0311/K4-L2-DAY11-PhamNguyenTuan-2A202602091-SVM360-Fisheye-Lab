@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>20</id>
+      <size>1</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-09-28 08:49:09.917357+00:00</created>
+      <updated>2026-09-28 09:30:43.217174+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>0</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>20</id>
+          <start>0</start>
+          <stop>0</stop>
+          <url>http://localhost:8080/api/jobs/20/dataset/export/api/jobs/20</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>tuanpn</username>
+        <email>phamnguyentuan03112004@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>parking_line</name>
+          <color>#ffcc00</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>free_space</name>
+          <color>#35c98b</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2026-09-28 09:31:14.060151+00:00</dumped>
+  </meta>
+  <image id="0" name="parking-lot-core.jpg" width="960" height="720">
+    <polyline label="parking_line" source="manual" occluded="0" points="310.56,503.45;275.09,497.69" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="385.13,501.58;346.33,496.29" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="455.07,499.41;416.19,495.59" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="25.68,720.00;28.69,681.06" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="528.29,719.20;407.69,652.45" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="960.00,685.11;696.90,622.72" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="959.97,602.67;920.79,596.89" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="47.74,571.61;59.03,521.43" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="247.94,563.58;171.59,521.28" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="420.64,554.14;328.78,531.33;281.29,518.27" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="577.99,544.18;447.88,525.75;398.47,516.76" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="715.17,536.50;557.57,520.98;501.52,514.13" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="831.67,529.61;661.22,516.96;552.38,507.57" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="61.96,509.96;64.85,499.20" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="148.53,507.49;134.18,499.40" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="230.57,505.58;208.57,499.58" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="15.86,496.03;22.34,487.58" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="72.98,494.62;72.98,487.21" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="128.88,494.00;122.98,487.06" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="231.80,490.00;218.00,483.30" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="284.34,488.79;266.54,483.40" z_order="0">
+    </polyline>
+    <polygon label="free_space" source="manual" occluded="0" points="0.00,543.13;52.45,541.82;44.41,571.94;52.71,572.48;59.41,541.68;193.00,537.52;243.65,564.47;251.63,564.13;202.23,536.36;326.72,531.83;419.44,555.16;423.25,553.57;334.14,531.66;447.15,526.77;576.95,545.57;581.35,543.87;455.55,525.87;554.57,521.63;714.52,537.84;718.08,535.98;562.80,520.94;664.48,518.16;832.79,531.15;835.39,528.95;674.00,517.24;960.00,508.60;960.00,601.52;920.91,595.73;919.02,598.33;960.00,603.86;960.00,681.39;699.88,621.02;690.55,623.30;960.00,687.07;960.00,720.00;543.78,720.00;411.36,650.48;398.90,652.98;518.20,720.00;36.52,720.00;38.59,680.53;21.44,680.81;16.15,720.00;0.00,720.00" z_order="0">
+    </polygon>
+    <polygon label="free_space" source="manual" occluded="0" points="515.47,469.43;515.47,472.42;511.47,472.22;511.66,469.35;324.15,465.26;242.78,462.76;267.18,482.81;286.18,488.71;348.80,495.71;416.48,494.61;457.78,498.81;454.78,500.31;414.38,496.21;351.68,496.51;388.38,501.41;384.38,502.31;345.27,497.07;280.65,497.55;313.45,503.55;308.14,504.37;272.85,498.71;213.52,499.90;234.14,505.79;228.65,506.33;207.10,500.17;136.68,499.90;150.87,507.40;145.92,508.61;131.73,499.90;67.20,499.64;63.86,510.61;58.77,510.35;62.65,499.50;0.00,500.84;0.00,541.41;52.64,539.81;57.14,520.81;61.19,520.75;57.99,539.65;191.79,536.15;169.08,520.65;173.49,520.05;199.69,534.85;322.69,530.85;278.19,518.35;286.19,517.75;329.58,530.25;438.49,525.45;396.19,517.15;401.29,515.85;451.08,524.95;545.69,520.65;499.49,514.65;504.08,513.05;554.19,519.65;654.29,517.25;548.49,507.95;555.99,506.95;664.69,516.05;960.00,506.80;960.00,477.66;858.93,476.57;859.03,481.14;854.43,481.24;854.43,476.53;852.00,476.50;530.24,469.75" z_order="0">
+    </polygon>
+    <polygon label="free_space" source="manual" occluded="0" points="286.72,488.77;284.31,489.54;265.31,483.44;267.19,482.59;242.90,462.80;221.61,462.70;220.71,464.41;219.52,464.70;220.42,468.40;220.22,479.20;195.71,479.40;193.22,476.51;193.51,462.70;0.00,463.54;0.00,492.82;0.38,496.81;13.85,496.81;22.22,486.43;23.92,487.21;18.19,496.50;71.13,496.15;71.52,485.54;74.43,485.74;74.73,495.94;126.92,495.54;120.42,486.14;125.53,485.74;133.93,495.54;238.30,495.50;215.70,483.20;219.40,482.80;244.10,495.60;348.10,495.60" z_order="0">
+    </polygon>
+    <polygon label="free_space" source="manual" occluded="0" points="286.72,488.77;284.31,489.54;265.31,483.44;267.19,482.59;286.10,488.70" z_order="0">
+    </polygon>
+  </image>
+</annotations>

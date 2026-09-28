@@ -1,0 +1,9 @@
+round: rework
+slice: B4-dense
+sha256: fcefdab1398383ce589dd018a4c3c60912adc62edef1aff274f9dd771a1a95ab
+code: FCEF-DAB1
+locked_at: 2026-09-28T16:38:03+07:00
+shapes: box=4, polygon=6
+prefill_kept: 4
+prefill_edited: 0
+new: 0

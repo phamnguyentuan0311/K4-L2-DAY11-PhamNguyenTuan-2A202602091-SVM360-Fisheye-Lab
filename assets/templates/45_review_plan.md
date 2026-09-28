@@ -4,9 +4,9 @@ Từ `findings.csv` và `zone_table.md`, chọn **hai lát cắt của bài ADAS
 giải thích dữ liệu thật bạn vừa làm; nó không thay cho kế hoạch bốn camera giả lập ở `45_sampling_plan.csv`.
 
 | Lát cắt / frame | Số ca và loại lỗi | Vì sao review trước | Bằng chứng cần giữ |
-|---|---|---|---|
-| TODO | TODO | TODO | TODO |
-| TODO | TODO | TODO | TODO |
+| -----------------| -------------------| ---------------------| --------------------|
+| TODO            | TODO              | TODO                | TODO               |
+| TODO            | TODO              | TODO                | TODO               |
 
 Giới hạn của kết luận từ ba frame ADASIND: TODO
 
